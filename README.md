@@ -10,8 +10,7 @@ The algorithm can be altered to as many centers as user wants. Default=3.
 Contains Images of different Example dataset
 
 #### Data_generator.py
-Python program to generate random blob like data using sckit.learn
-
+Code for generating random blob like data using sckit.learn
 
 
 ####### note on algorithm:
