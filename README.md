@@ -17,7 +17,7 @@ More number of datapoints, more time the algorithm will take to converge. Some r
 
 No. of Datapoints | Time Taken (in mins.)
 ------------------|-----------------------
-200 | 1.27
+200 | 1.2
 400 | 2.7
 1000 | 9.8
 2000 | 26.2
