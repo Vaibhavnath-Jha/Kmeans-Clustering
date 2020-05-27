@@ -25,7 +25,7 @@ No. of Datapoints | Time Taken (in mins.)
 2000 | 26.2
 
 *These results were obtained on a system with following configuration:*<br/>
-CPU    -> Intel Core i5 - 8285U @ 1.60GHz<br/>
+_CPU    -> Intel Core i5 - 8285U @ 1.60GHz<br/>
 Memory -> 8GB RAM<br/>
 GPU    -> Nvidia Geforce MX150<br/>
-VRAM   -> 2GB <br/>
+VRAM   -> 2GB <br/>_
