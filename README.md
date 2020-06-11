@@ -14,7 +14,7 @@ Code for generating random blob like data using sckit.learn
 
 
 ###### *note about algorithm:*<br/>
-More number of datapoints, more time the algorithm will take to converge. Some results are:
+More number of datapoints, more time the algorithm will take to converge. Total time includes rendering the graphs as well. Some results are:
 
 No. of Datapoints | Time Taken (in mins.)
 ------------------|-----------------------
