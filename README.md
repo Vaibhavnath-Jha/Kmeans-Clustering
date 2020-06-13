@@ -3,7 +3,7 @@
 Program to visualize K means clustering algorithm without using any data science library.
 
 ### KMeans_General.py
-Main code in order to execute Kmeans_algorithm.
+Main code in order to execute Kmeans_algorithm.<br/>
 The algorithm can be altered to as many centers as user wants. Default=3.
 
 #### Plots 
