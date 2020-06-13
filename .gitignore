@@ -109,6 +109,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Plots/2_centers/
+Plots/3_centers/
+Plots/Blob/
+Plots/Example/
 
 # Spyder project settings
 .spyderproject
