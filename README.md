@@ -7,13 +7,13 @@ Main code in order to execute Kmeans_algorithm.
 The algorithm can be altered to as many centers as user wants. Default=3.
 
 #### Plots 
-Contains Images of different Example dataset
+Contains GIF of different Example dataset
 
 #### Data_generator.py
 Code for generating random blob like data using sckit.learn
 
 
-###### *note about algorithm:*<br/>
+#### *note about algorithm:*<br/>
 More number of datapoints, more time the algorithm will take to converge. Total time includes rendering the graphs as well. Some results are:
 
 No. of Datapoints | Time Taken (in mins.)
